@@ -6,7 +6,7 @@
 
 **macOS 微信回复助手 · 本地 Laya 判断 · 三种语气 · 你来决定发送**
 
-[快速开始](#快速开始) · [界面预览](#先看效果) · [隐私说明](PRIVACY.md) · [反馈问题](https://github.com/lanjunyao/yun-laya/issues)
+[下载试用版](https://github.com/lanjunyao/yun-laya/releases/tag/v0.4.0) · [快速开始](#快速开始) · [界面预览](#先看效果) · [隐私说明](PRIVACY.md) · [反馈问题](https://github.com/lanjunyao/yun-laya/issues)
 
 ![macOS](https://img.shields.io/badge/macOS-13%2B-black) ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M1%2B-blue) ![MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -32,6 +32,8 @@
 > 当前是实验性版本。OCR、意图和风险可能出错；尤其是承诺、争议等消息，请自行检查。尚不支持 Windows / Intel Mac。
 
 ## 快速开始
+
+[下载 macOS 试用安装包](https://github.com/lanjunyao/yun-laya/releases/tag/v0.4.0)。需要先下载 Laya 模型、配置回复服务。应用只有 ad-hoc 签名，未经过 Apple 公证；也可按下方步骤从源码运行。
 
 需要 **Apple Silicon Mac、macOS 13+、微信、uv 和 Python 3.12**。首次安装需要联网下载依赖与模型，耗时取决于网络和设备。uv 安装见 [官方指南](https://docs.astral.sh/uv/getting-started/installation/)。
 
